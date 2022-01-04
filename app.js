@@ -215,7 +215,7 @@ const UI = {
                 //show  data to UI
                 this.printWeather(data);
             }
-
+            console.log(data);
 
 
 
